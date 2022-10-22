@@ -16,6 +16,10 @@ script = ExtResource( 3 )
 __meta__ = {
 "_edit_group_": true
 }
+movement_speed = 200.0
+jump_height = 100.0
+jump_time_to_peak = 0.4
+jump_time_to_descent = 0.3
 
 [node name="Sprite" type="Sprite" parent="."]
 texture = ExtResource( 5 )

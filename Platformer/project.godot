@@ -40,6 +40,7 @@ _global_script_class_icons={
 
 config/name="Platformer Template"
 config/description="Enter an interesting project description here!"
+run/main_scene="res://scenes/levels/TestLevel1.tscn"
 config/icon="res://icon.png"
 
 [input]
